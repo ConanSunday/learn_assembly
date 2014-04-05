@@ -1,4 +1,4 @@
-learn_-assembly
+learn_assembly
 ===============
 
 study assembly
